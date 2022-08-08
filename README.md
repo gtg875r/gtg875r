@@ -9,5 +9,16 @@
 - [Atlanta's Regional Transit Clearinghouse and Fare Collection System Review](https://cdn.atlantaregional.org/wp-content/uploads/rtc-summary-notes-03102016.pdf)
 - Autonomous Transit Demonstration
 
+### Languages and Tools:
+<p>
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
+<img src="https://img.icons8.com/color/35/000000/slack.png"/>
 
-<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
+</p>
+
+
+<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-outline-17/64/LinkedIn-social-media-portfolio-job-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="mailto:hillarynyk@gmail.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2231/512/112-gmail_email_mail_social-256.png" height="80px" width="80px" alt="Gmail" align="right"></a>
