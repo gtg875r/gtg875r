@@ -21,4 +21,4 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-outline-17/64/LinkedIn-social-media-portfolio-job-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="mailto:hillarynyk@gmail.com" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_gmail-256.png" height="80px" width="80px" alt="Gmail" align="right"></a>
+<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-outline-17/64/LinkedIn-social-media-portfolio-job-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="mailto:aaronwfowler@gmail.com" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logos-brands-1/24/logo_brand_brands_logos_gmail-256.png" height="80px" width="80px" alt="Gmail" align="right"></a>
