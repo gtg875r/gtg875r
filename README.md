@@ -1,21 +1,13 @@
-<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
-
 
 ### Hi there 👋, I'm Aaron.
 
 ### I'm a seasoned transportation policy and operations leader bringing my experience to the software engineering space.
 
-<!--
-**gtg875r/gtg875r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Technical projects I've been involved with:
+- [Self-Coordinating Bus Routes](https://www2.isye.gatech.edu/~jjb/papers/Bartholdi-Eisenstein-2011.pdf)
+- [Ridecell's Automated Dispatching](https://nique.net/news/2010/01/21/new-technology-to-be-used-in-stingerettes/)
+- [Atlanta's Regional Transit Clearinghouse and Fare Collection System Review](https://cdn.atlantaregional.org/wp-content/uploads/rtc-summary-notes-03102016.pdf)
+- Autonomous Transit Demonstration
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
