@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/aaronwfowler/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
+
+
+### Hi there 👋, I'm Aaron.
+
+###
 
 <!--
 **gtg875r/gtg875r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
