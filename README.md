@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Aaron.
 
-### I'm a seasoned transit policy and operations leader bringing my experience to software engineering space.
+### I'm a seasoned transportation policy and operations leader bringing my experience to the software engineering space.
 
 <!--
 **gtg875r/gtg875r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
