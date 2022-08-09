@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Aaron.
 
-### I'm a seasoned 🚌 transportation policy and operations leader bringing my experience to the 💻 software engineering space.  
+### I'm a seasoned 🚌 transportation policy and operations leader bringing my experience and creativity to the 💻 software engineering space.  
 
 ### ⚡ Here are a few technical projects I've been involved with:
 - [Self-Coordinating Bus Routes](https://www2.isye.gatech.edu/~jjb/papers/Bartholdi-Eisenstein-2011.pdf)
