@@ -8,6 +8,7 @@
 <img src="https://img.icons8.com/color/35/000000/python.png">
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/kotlin.png">
+  <br></br>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/pycharm.png"/>
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
