@@ -1,13 +1,7 @@
 
 ### Hi there 👋, I'm Aaron.
 
-### I'm a seasoned 🚌 transportation policy and operations leader bringing my experience and creativity to the 💻 software engineering space.  
-
-### ⚡ Here are a few technical projects I've been involved with:
-- [Self-Coordinating Bus Routes](https://www2.isye.gatech.edu/~jjb/papers/Bartholdi-Eisenstein-2011.pdf)
-- [Ridecell's Automated Dispatching](https://nique.net/news/2010/01/21/new-technology-to-be-used-in-stingerettes/)
-- [Atlanta's Regional Transit Clearinghouse and Fare Collection System Review](https://cdn.atlantaregional.org/wp-content/uploads/rtc-summary-notes-03102016.pdf)
-- Autonomous Transit Demonstration
+### I'm a seasoned 🚌 transportation leader bringing my experience and creativity to the 💻 software engineering space.  
 
 ### Languages and Tools:
 <p>
