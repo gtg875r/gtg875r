@@ -7,6 +7,7 @@
   <p>
   <img src="https://img.icons8.com/color/35/000000/python.png">
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+  <img src="https://img.icons8.com/color/35/000000/sql.png"/>
   <img src="https://img.icons8.com/color/35/000000/kotlin.png">
 
 ### Tools:
