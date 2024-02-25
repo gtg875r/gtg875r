@@ -12,6 +12,8 @@
 
 ### Tools:
   <p>
+  <img src="https://img.icons8.com/color/35/000000/awslambda.png"/>
+  <img src="https://img.icons8.com/color/35/000000/chatgpt.png"/>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/35/000000/pycharm.png"/>
   <img src="https://img.icons8.com/color/35/000000/github.png"/> 
